@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='charmemaps'>
+  <inherits name="uk.ac.rdg.resc.godiva.Godiva"/>
+  <!-- Specify the app entry point class.                         -->
+  <entry-point class='uk.ac.rdg.resc.charme.client.CharmeMaps'/>
+
+  <!-- Specify the paths for translatable code                    -->
+  <source path='client'/>
+
+</module>
